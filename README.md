@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="ChatGPT Image May 9, 2026, 08_03_07 PM" src="https://github.com/user-attachments/assets/c3e31c9b-dfa8-4b07-9bb7-cb92ff2e06ba" /><img width="1024" height="1536" alt="ChatGPT Image May 12, 2026, 07_46_53 PM" src="https://github.com/user-attachments/assets/510de602-4daf-466a-b2f4-1081cfc7ccee" />**Bus Booking App**
+**Bus Booking App**
 A modern Android Bus Booking and Tracking Application for Pakistan.
 
 **About the App**
@@ -146,6 +146,5 @@ This project was developed as a Semester Project for the Mobile App Development 
 
 Special thanks to our instructor for guidance and support throughout the development of this project.
 
-**Instructor:** Nabiha Komal![Uploading WhatsApp Image 2026-05-05 at 7.56.55 AM.jpeg…]()
-
- Mobile App Development
+**Instructor:** Nabiha Komal
+**Course:** Mobile App Development
