@@ -2,6 +2,8 @@
 
 A modern Android Bus Booking and Tracking Application for Pakistan.
 
+
+
 **About the App**
 Bus Booking App is a smart Android application that allows passengers to search routes, view available buses, select seats, and manage their bookings easily.
 
@@ -10,11 +12,15 @@ The application is designed to simplify bus travel by providing route informatio
 Users can search routes between major Pakistani cities, view bus schedules, select seats visually, and manage upcoming or completed bookings.
 
 
+
 **App Screenshots:**
+
 **Home Screen**
 <img width="720" height="1600" alt="Home" src="https://github.com/user-attachments/assets/7d1292d8-bfae-42ac-8c32-df34f45583ce" />
 
+
 **Routes Screen**
+
 <img width="720" height="1600" alt="Routes" src="https://github.com/user-attachments/assets/7aa57912-014d-4801-a235-62485206ddaf<img width="720" height="1600" alt="Home" src="https://github.com/user-attachments/assets/1fc26ebb-7017-41e8-b3db-5d91df021b19" />
 " />
 
@@ -25,7 +31,9 @@ Users can search routes between major Pakistani cities, view bus schedules, sele
 
 
 **My Bookings Screen**
+
 <img width="720" height="1600" alt="My Booking" src="https://github.com/user-attachments/assets/810c694b-c523-4a7c-a6f8-c44b9f684710" />
+
 
 
 **Features**
