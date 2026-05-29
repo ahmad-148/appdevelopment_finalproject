@@ -144,7 +144,7 @@ BS Computer Science (6th Semester)
 University of Layyah
 
 GitHub:
-https://github.com/your-github-profile
+[your-github-profile](https://github.com/ahmad-148)
 
 
 Nouman Afzal
