@@ -15,7 +15,6 @@ Users can search routes between major Pakistani cities, view bus schedules, sele
 
 
 **App Screenshots:**
-
 **Home Screen**
 <img width="720" height="1600" alt="Home" src="https://github.com/user-attachments/assets/7d1292d8-bfae-42ac-8c32-df34f45583ce" />
 
