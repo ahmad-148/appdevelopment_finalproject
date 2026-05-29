@@ -16,24 +16,27 @@ Users can search routes between major Pakistani cities, view bus schedules, sele
 
 **App Screenshots:**
 **Home Screen**
-<img width="720" height="1600" alt="Home" src="https://github.com/user-attachments/assets/7d1292d8-bfae-42ac-8c32-df34f45583ce" />
+<img width="720" height="1600" alt="Home" src="https://github.com/user-attachments/assets/8b6fbbe4-c794-4abc-9186-0038a07cc2cd" />
+
 
 
 **Routes Screen**
+<img width="720" height="1600" alt="Routes" src="https://github.com/user-attachments/assets/d880b893-111c-47f2-a06a-ca551b1ea975" />
 
-<img width="720" height="1600" alt="Routes" src="https://github.com/user-attachments/assets/7aa57912-014d-4801-a235-62485206ddaf<img width="720" height="1600" alt="Home" src="https://github.com/user-attachments/assets/1fc26ebb-7017-41e8-b3db-5d91df021b19" />
-" />
 
 
 **Book Seat Screen**
 
-<img width="720" height="1600" alt="My Booking" src="https://github.com/user-attachments/assets/19a36560-564d-4f8b-acae-e09344b5ebd4" />
+![Uploading Selected Seats.jpeg…]()
+
+
+
 
 
 
 **My Bookings Screen**
+<img width="720" height="1600" alt="My Booking" src="https://github.com/user-attachments/assets/eb49267d-681b-43a6-9353-fefafa076379" />
 
-<img width="720" height="1600" alt="My Booking" src="https://github.com/user-attachments/assets/810c694b-c523-4a7c-a6f8-c44b9f684710" />
 
 
 
